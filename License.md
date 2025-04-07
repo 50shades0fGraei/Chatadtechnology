@@ -4,7 +4,7 @@ Navigation Menu
 Code
 Issues
 Pull requests
-chatadvertisements
+chatadtechnology
 /License.md
 50shades0fGraei
 50shades0fGraei
@@ -12,7 +12,7 @@ chatadvertisements
 
 Grant of License Permission is hereby granted to use the Graeitrade software ("Software") solely for personal or commercial trading purposes, subject to the terms below. This license is non-transferable and does not permit copying, modification, distribution, sublicensing, or reverse-engineering of the Software without explicit written consent from [Randall James Lujan].
 
-Royalty Obligation Any individual or entity using the Software to execute advertisements for profit must remit to [Randall James Lujan] a royalty of ten percent (10%) of net profits derived from successful advertisement executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable trades minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to [Your Payment Details, e.g., PayPal: meta2graei@gmail.com], accompanied by a detailed report of trades, profits, and losses.
+Royalty Obligation Any individual or entity using the Software to execute advertisements for profit must remit to [Randall James Lujan] a royalty of fifty percent (50%) of net profits derived from successful advertisement executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable advertisements minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to PayPal: meta2graei@gmail.com], accompanied by a detailed report of trades, profits, and losses.
 
 Reporting and Compliance Users must maintain accurate records of all trades executed with the Software and provide these records upon request for verification of royalty payments. Failure to comply with the royalty obligation or reporting requirements terminates this license immediately.
 
@@ -30,9 +30,9 @@ chatads Commercial License Copyright (c) Randall james lujan 2025
 
 All rights reserved.
 
-Grant of License Permission is hereby granted to use the Graeitrade software ("Software") solely for personal or commercial trading purposes, subject to the terms below. This license is non-transferable and does not permit copying, modification, distribution, sublicensing, or reverse-engineering of the Software without explicit written consent from Randall lujan.
+Grant of License Permission is hereby granted to use the chatads software ("Software") solely for personal or commercial trading purposes, subject to the terms below. This license is non-transferable and does not permit copying, modification, distribution, sublicensing, or reverse-engineering of the Software without explicit written consent from Randall lujan.
 
-Royalty Obligation Any individual or entity using the Software to execute trades for profit must remit to Randall lujan a royalty of ten percent (10%) of net profits derived from successful trades executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable trades minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to Payment Details PayPal: meta2graei@gmail.com, accompanied by a detailed report of trades, profits, and losses.
+Royalty Obligation Any individual or entity using the Software to execute trades for profit must remit to Randall lujan a royalty of fifty percent (50%) of net profits derived from successful trades executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable trades minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to Payment Details PayPal: meta2graei@gmail.com, accompanied by a detailed report of trades, profits, and losses.
 
 Reporting and Compliance Users must maintain accurate records of all trades executed with the Software and provide these records upon request for verification of royalty payments. Failure to comply with the royalty obligation or reporting requirements terminates this license immediately.
 
@@ -52,7 +52,7 @@ All rights reserved.
 
 Grant of License Permission is hereby granted to use the chatads software ("Software") solely for personal or commercial trading purposes, subject to the terms below. This license is non-transferable and does not permit copying, modification, distribution, sublicensing, or reverse-engineering of the Software without explicit written consent from Randall lujan.
 
-Royalty Obligation Any individual or entity using the Software to execute trades for profit must remit to Randall lujan a royalty of ten percent (10%) of net profits derived from successful ad revenue executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable trades minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to Payment Details PayPal: meta2graei@gmail.com, accompanied by a detailed report of trades, profits, and losses.
+Royalty Obligation Any individual or entity using the Software to execute trades for profit must remit to Randall lujan a royalty of fifty percent (50%) of net profits derived from successful ad revenue executed using the Software or any derivative thereof. Net profits are defined as the total gains from profitable trades minus any losses and transaction fees. Payments shall be made quarterly within 15 days of the end of each calendar quarter to Payment Details PayPal: meta2graei@gmail.com, accompanied by a detailed report of trades, profits, and losses.
 
 Reporting and Compliance Users must maintain accurate records of all ads executed with the Software and provide these records upon request for verification of royalty payments. Failure to comply with the royalty obligation or reporting requirements terminates this license immediately.
 
